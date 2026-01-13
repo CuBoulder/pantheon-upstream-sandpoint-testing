@@ -1,0 +1,120 @@
+{
+    "name": "cu-boulder/tiamat_upstream",
+    "description": "Install Tiamat with Composer on Pantheon.",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "path",
+            "url": "upstream-configuration/locked"
+        },
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "require": {
+        "composer/installers": "^2.1",
+        "cweagans/composer-patches": "^1.7",
+        "drush/drush": "^13",
+        "oomphinc/composer-installers-extender": "^2.0",
+        "pantheon-systems/upstream-management": "^1.0",
+        "pantheon-upstreams/upstream-configuration": "dev-main"
+    },
+    "conflict": {
+        "drupal/drupal": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Drupal\\ckeditor5_bootstrap_accordion\\": "web/modules/custom/ckeditor5_bootstrap_accordion/src/",
+            "Drupal\\ckeditor5_icons\\": "web/modules/custom/ckeditor5_icons/src/"
+        }
+    },
+    "extra": {
+        "patches": {
+            "drupal/core": {
+                "Add reusable option to inline block creation": "patches/add_reusable_option_to_inline_block_creation-drupal11-2.patch"
+            }
+        },
+        "patchLevel": {
+            "drupal/core": "-p3"
+        },
+        "drupal-scaffold": {
+            "locations": {
+                "web-root": "./web"
+            },
+            "allowed-packages": ["pantheon-systems/drupal-integrations"],
+            "file-mapping": {
+                "[project-root]/.editorconfig": false,
+                "[project-root]/pantheon.upstream.yml": false,
+                "[project-root]/.gitattributes": false
+            }
+        },
+        "installer-types": [
+            "npm-asset",
+            "bower-asset"
+        ],
+        "installer-paths": {
+            "web/core": ["type:drupal-core"],
+            "web/libraries/jquery.inputmask": ["npm-asset/inputmask"],
+            "web/libraries/jquery.intl-tel-input": ["npm-asset/intl-tel-input"],
+            "web/libraries/jquery.select2": ["npm-asset/select2"],
+            "web/libraries/jquery.textcounter": ["npm-asset/jquery-text-counter"],
+            "web/libraries/jquery.timepicker": ["npm-asset/timepicker"],
+            "web/libraries/popperjs": ["npm-asset/popperjs--core"],
+            "web/libraries/signature_pad": ["bower-asset/signature-pad"],
+            "web/libraries/tabby": ["npm-asset/tabbyjs"],
+            "web/libraries/tippyjs": ["npm-asset/tippy.js"],
+            "web/libraries/ckeditor5-anchor-drupal": ["npm-asset/northernco--ckeditor5-anchor-drupal"],
+            "web/libraries/{$name}": [
+                "type:drupal-library",
+                "type:npm-asset",
+                "type:bower-asset"
+            ],
+            "web/modules/contrib/{$name}": ["type:drupal-module"],
+            "web/profiles/contrib/{$name}": ["type:drupal-profile"],
+            "web/themes/contrib/{$name}": ["type:drupal-theme"],
+            "drush/Commands/contrib/{$name}": ["type:drupal-drush"],
+            "web/modules/custom/{$name}": ["type:drupal-custom-module"],
+            "web/profiles/custom/{$name}": ["type:drupal-custom-profile"],
+            "web/themes/custom/{$name}": ["type:drupal-custom-theme"],
+            "web/private/scripts/quicksilver/{$name}/": ["type:quicksilver-script"]
+        },
+        "merge-plugin": {
+            "include": ["composer.libraries.json"]
+        },
+        "composer-exit-on-patch-failure": true,
+        "enable-patching": true
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "platform": {
+            "php": "8.3"
+        },
+        "allow-plugins": {
+            "composer/installers": true,
+            "cweagans/composer-patches": true,
+            "drupal/core-composer-scaffold": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "wikimedia/composer-merge-plugin": true,
+            "phpstan/extension-installer": true,
+            "drupal/core-project-message": true,
+            "php-http/discovery": true,
+            "pantheon-systems/upstream-management": true,
+            "oomphinc/composer-installers-extender": true,
+            "tbachert/spi": true
+        }
+    },
+    "scripts": {
+        "post-update-cmd": ["composer dump-autoload -o"],
+        "post-install-cmd": ["composer dump-autoload -o"]
+    }
+}
