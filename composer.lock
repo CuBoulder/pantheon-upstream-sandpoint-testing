@@ -885,16 +885,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260128",
+            "version": "20260128a",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "93527cab6f6c76da184a697a191c26ee4a3e6832"
+                "reference": "2dfc56504f3475db4c6ddddf061b23c6a5cd7dc5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/93527cab6f6c76da184a697a191c26ee4a3e6832",
-                "reference": "93527cab6f6c76da184a697a191c26ee4a3e6832",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/2dfc56504f3475db4c6ddddf061b23c6a5cd7dc5",
+                "reference": "2dfc56504f3475db4c6ddddf061b23c6a5cd7dc5",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -905,9 +905,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260128"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260128a"
             },
-            "time": "2026-01-28T17:04:18+00:00"
+            "time": "2026-01-28T23:02:15+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -6245,16 +6245,16 @@
         },
         {
             "name": "drush/drush",
-            "version": "13.7.0",
+            "version": "13.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "70de523716de1125233de17e172a38c4ecdde397"
+                "reference": "4049dd4332bfc47d19ce849cb50380bd0498e4cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/70de523716de1125233de17e172a38c4ecdde397",
-                "reference": "70de523716de1125233de17e172a38c4ecdde397",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/4049dd4332bfc47d19ce849cb50380bd0498e4cc",
+                "reference": "4049dd4332bfc47d19ce849cb50380bd0498e4cc",
                 "shasum": ""
             },
             "require": {
@@ -6382,7 +6382,7 @@
                 "issues": "https://github.com/drush-ops/drush/issues",
                 "security": "https://github.com/drush-ops/drush/security/advisories",
                 "slack": "https://drupal.slack.com/messages/C62H9CWQM",
-                "source": "https://github.com/drush-ops/drush/tree/13.7.0"
+                "source": "https://github.com/drush-ops/drush/tree/13.7.1"
             },
             "funding": [
                 {
@@ -6390,7 +6390,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-11-25T18:23:02+00:00"
+            "time": "2026-01-28T22:21:17+00:00"
         },
         {
             "name": "e0ipso/shaper",
@@ -8180,7 +8180,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "f49c66d7c89485f628be27e56ac0d3c4b8150415"
+                "reference": "b3c98555d22353e492fecec7133247707f33a4eb"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8197,7 +8197,7 @@
                 "consolidation/robo": "5.1.1",
                 "consolidation/site-alias": "4.1.2",
                 "consolidation/site-process": "5.4.2",
-                "cu-boulder/boulder_base": "20260128",
+                "cu-boulder/boulder_base": "20260128a",
                 "cu-boulder/boulder_profile": "20260123",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
@@ -8290,7 +8290,7 @@
                 "drupal/twig_tweak": "3.4.1",
                 "drupal/unpublished_404": "2.0.3",
                 "drupal/webform": "6.3.0-beta7",
-                "drush/drush": "13.7.0",
+                "drush/drush": "13.7.1",
                 "e0ipso/shaper": "1.2.7",
                 "egulias/email-validator": "4.0.4",
                 "ezyang/htmlpurifier": "v4.19.0",
