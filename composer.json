@@ -112,6 +112,9 @@
             "pantheon-systems/upstream-management": true,
             "oomphinc/composer-installers-extender": true,
             "tbachert/spi": true
+        },
+        "audit": {
+            "ignore": ["PKSA-4s4z-t146-6123"]
         }
     },
     "scripts": {
