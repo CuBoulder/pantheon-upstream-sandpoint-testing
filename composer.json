@@ -38,9 +38,9 @@
     },
     "extra": {
         "patches": {
-            "drupal/core": {
-                "Add reusable option to inline block creation": "patches/add_reusable_option_to_inline_block_creation-drupal11-2.patch",
-                "Fix escape sanitization function": "patches/fix-type-error-null-text-3523317-21.patch"
+            "drupal/core": [],
+            "pantheon-systems/upstream-management": {
+                "Fixes Fatal error: UpstreamRequireCommand::configure()": "https://patch-diff.githubusercontent.com/raw/pantheon-systems/upstream-management/pull/23.patch"
             }
         },
         "patchLevel": {
