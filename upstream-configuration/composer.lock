@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "47c572cc875cc6ce8c7ff768ef41aa10",
+    "content-hash": "f9e71e20063793e1b5ed900c0b717692",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -911,16 +911,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20260204",
+            "version": "20260211",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "f274231f2b72f6fa10520a3f0a450bed97233dc7"
+                "reference": "47195583eae99780ad48670f8b846287909fe41b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/f274231f2b72f6fa10520a3f0a450bed97233dc7",
-                "reference": "f274231f2b72f6fa10520a3f0a450bed97233dc7",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/47195583eae99780ad48670f8b846287909fe41b",
+                "reference": "47195583eae99780ad48670f8b846287909fe41b",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -931,9 +931,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260204"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260211"
             },
-            "time": "2026-02-04T18:46:49+00:00"
+            "time": "2026-02-11T18:32:55+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -1531,54 +1531,6 @@
                 "source": "https://github.com/CuBoulder/ucb_user_invite/tree/main"
             },
             "time": "2025-12-16T18:02:28+00:00"
-        },
-        {
-            "name": "cweagans/composer-patches",
-            "version": "1.7.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/cweagans/composer-patches.git",
-                "reference": "e190d4466fe2b103a55467dfa83fc2fecfcaf2db"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/cweagans/composer-patches/zipball/e190d4466fe2b103a55467dfa83fc2fecfcaf2db",
-                "reference": "e190d4466fe2b103a55467dfa83fc2fecfcaf2db",
-                "shasum": ""
-            },
-            "require": {
-                "composer-plugin-api": "^1.0 || ^2.0",
-                "php": ">=5.3.0"
-            },
-            "require-dev": {
-                "composer/composer": "~1.0 || ~2.0",
-                "phpunit/phpunit": "~4.6"
-            },
-            "type": "composer-plugin",
-            "extra": {
-                "class": "cweagans\\Composer\\Patches"
-            },
-            "autoload": {
-                "psr-4": {
-                    "cweagans\\Composer\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Cameron Eagans",
-                    "email": "me@cweagans.net"
-                }
-            ],
-            "description": "Provides a way to patch Composer packages.",
-            "support": {
-                "issues": "https://github.com/cweagans/composer-patches/issues",
-                "source": "https://github.com/cweagans/composer-patches/tree/1.7.3"
-            },
-            "time": "2022-12-20T22:53:13+00:00"
         },
         {
             "name": "dflydev/dot-access-data",

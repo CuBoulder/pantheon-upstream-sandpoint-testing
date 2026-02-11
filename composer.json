@@ -19,7 +19,7 @@
     ],
     "require": {
         "composer/installers": "^2.1",
-        "cweagans/composer-patches": "^1.7",
+        "cweagans/composer-patches": "^2.0",
         "drush/drush": "^13",
         "oomphinc/composer-installers-extender": "^2.0",
         "pantheon-systems/upstream-management": "^1.0",
