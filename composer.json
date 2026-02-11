@@ -37,14 +37,16 @@
         }
     },
     "extra": {
-        "patches": {
-            "drupal/core": [],
-            "pantheon-systems/upstream-management": {
-                "Fixes Fatal error: UpstreamRequireCommand::configure()": "https://patch-diff.githubusercontent.com/raw/pantheon-systems/upstream-management/pull/23.patch"
+        "composer-patches": {
+            "patches": {
+                "drupal/core": [],
+                "pantheon-systems/upstream-management": [
+                    {
+                        "description": "Fixes Fatal error: UpstreamRequireCommand::configure()",
+                        "url": "patches/pantheon-signature.patch"
+                    }
+                ]
             }
-        },
-        "patchLevel": {
-            "drupal/core": "-p3"
         },
         "drupal-scaffold": {
             "locations": {

@@ -1,0 +1,12 @@
+diff --git a/src/Command/UpstreamRequireCommand.php b/src/Command/UpstreamRequireCommand.php
+--- a/src/Command/UpstreamRequireCommand.php
++++ b/src/Command/UpstreamRequireCommand.php
+@@ -18,7 +18,7 @@ class UpstreamRequireCommand extends RequireCommand
+     /**
+      * {@inheritdoc}
+      */
+-    protected function configure()
++    protected function configure(): void
+     {
+         parent::configure();
+         $this
