@@ -1,6 +1,6 @@
-diff --git a/src/Command/UpstreamRequireCommand.php b/src/Command/UpstreamRequireCommand.php
---- a/src/Command/UpstreamRequireCommand.php
-+++ b/src/Command/UpstreamRequireCommand.php
+diff --git a/vendor/pantheon-systems/upstream-management/src/Command/UpstreamRequireCommand.php b/vendor/pantheon-systems/upstream-management/src/Command/UpstreamRequireCommand.php
+--- a/vendor/pantheon-systems/upstream-management/src/Command/UpstreamRequireCommand.php
++++ b/vendor/pantheon-systems/upstream-management/src/Command/UpstreamRequireCommand.php
 @@ -18,7 +18,7 @@ class UpstreamRequireCommand extends RequireCommand
      /**
       * {@inheritdoc}
