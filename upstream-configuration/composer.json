@@ -103,7 +103,6 @@
         "drupal/twig_tweak": "^3.1",
         "drupal/unpublished_404": "^2.0",
         "drupal/webform": "^6.3@beta",
-        "drush/drush": "^13",
         "pantheon-systems/drupal-integrations": "^11",
         "pantheon-systems/pantheon_domain_masking": "^2.1",
         "drupal/config_update": "^2.0@alpha"
