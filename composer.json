@@ -37,16 +37,20 @@
         }
     },
     "extra": {
-        "composer-patches": {
-            "patches": {
-                "drupal/core": [],
-                "pantheon-systems/upstream-management": [
-                    {
-                        "description": "Fixes Fatal error: UpstreamRequireCommand::configure()",
-                        "url": "patches/pantheon-signature.patch"
-                    }
-                ]
-            }
+        "patches": {
+            "drupal/core": [
+                {
+                    "description": "Add Reusable Option to Inline Block Creation",
+                    "url": "patches/add_reusable_option_to_inline_block_creation-drupal11.3.3.patch",
+                    "depth": 1
+                }
+            ],
+            "pantheon-systems/upstream-management": [
+                {
+                    "description": "Fixes Fatal error: UpstreamRequireCommand::configure()",
+                    "url": "patches/pantheon-signature.patch"
+                }
+            ]
         },
         "drupal-scaffold": {
             "locations": {

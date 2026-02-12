@@ -1,4 +1,29 @@
 {
-    "_hash": "6142bfcb78f54dfbf5247ae5e463f25bdb8fff1890806e2e45aa81a59c211653",
-    "patches": []
+    "_hash": "2d5703a8a75a8e8259fa8865bab5b542719dd38eef2e38f77cded0ce5b3400ec",
+    "patches": {
+        "drupal/core": [
+            {
+                "package": "drupal/core",
+                "description": "Add Reusable Option to Inline Block Creation",
+                "url": "patches/add_reusable_option_to_inline_block_creation-drupal11.3.3.patch",
+                "sha256": "0e68d7720cd93758afa3f33aaf3a4efd414d165d2c547d25a255e82ad41df997",
+                "depth": 1,
+                "extra": {
+                    "provenance": "root"
+                }
+            }
+        ],
+        "pantheon-systems/upstream-management": [
+            {
+                "package": "pantheon-systems/upstream-management",
+                "description": "Fixes Fatal error: UpstreamRequireCommand::configure()",
+                "url": "patches/pantheon-signature.patch",
+                "sha256": "42e86849e53c6e7a824262fb9af9c5715e429587eb512feb38e26e1da242c53c",
+                "depth": 1,
+                "extra": {
+                    "provenance": "root"
+                }
+            }
+        ]
+    }
 }

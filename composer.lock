@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e03f7d0e61dc501adb20264500e51ebb",
+    "content-hash": "9e37bd094e87a354202c42d2650bd88f",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -941,12 +941,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_accordion.git",
-                "reference": "3389c689ea3fc41ef3465f756590558b49eef8c3"
+                "reference": "ef5d007573890bae16483e59c4b5e3637ebf1fbc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_accordion/zipball/3389c689ea3fc41ef3465f756590558b49eef8c3",
-                "reference": "3389c689ea3fc41ef3465f756590558b49eef8c3",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_accordion/zipball/ef5d007573890bae16483e59c4b5e3637ebf1fbc",
+                "reference": "ef5d007573890bae16483e59c4b5e3637ebf1fbc",
                 "shasum": ""
             },
             "require": {
@@ -963,7 +963,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_accordion/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_accordion/tree/main"
             },
-            "time": "2025-08-05T21:22:30+00:00"
+            "time": "2026-02-11T23:15:56+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_icons",
@@ -1190,12 +1190,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "212514b18eba2a93664d7d5984973a4485130a2b"
+                "reference": "d1514c573e1536b0a4b188af04f5c105bd7792bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/212514b18eba2a93664d7d5984973a4485130a2b",
-                "reference": "212514b18eba2a93664d7d5984973a4485130a2b",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/d1514c573e1536b0a4b188af04f5c105bd7792bd",
+                "reference": "d1514c573e1536b0a4b188af04f5c105bd7792bd",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1209,7 +1209,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2025-08-07T19:51:27+00:00"
+            "time": "2026-02-11T23:16:35+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
