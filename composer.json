@@ -1,6 +1,6 @@
 {
-    "name": "cu-boulder/tiamat_upstream",
-    "description": "Install Tiamat with Composer on Pantheon.",
+    "name": "cu-boulder/sandpoint_upstream",
+    "description": "Install Sandpoint with Composer on Pantheon.",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "repositories": [
