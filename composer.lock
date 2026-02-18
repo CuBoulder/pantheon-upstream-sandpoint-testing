@@ -1109,12 +1109,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "e00721e997d6643400c2b88c42b1b268433b898f"
+                "reference": "252dc0dc8b4749a557daa61df3f03e59ad2ed590"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/e00721e997d6643400c2b88c42b1b268433b898f",
-                "reference": "e00721e997d6643400c2b88c42b1b268433b898f",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/252dc0dc8b4749a557daa61df3f03e59ad2ed590",
+                "reference": "252dc0dc8b4749a557daa61df3f03e59ad2ed590",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1128,7 +1128,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
                 "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2026-02-06T21:01:20+00:00"
+            "time": "2026-02-13T23:32:06+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_map",
@@ -1376,12 +1376,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "de7eaf4ac3eb782aa7e0d77c54240604ff12f849"
+                "reference": "9191117e18a18c580db022dc1a976d2a094762c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/de7eaf4ac3eb782aa7e0d77c54240604ff12f849",
-                "reference": "de7eaf4ac3eb782aa7e0d77c54240604ff12f849",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/9191117e18a18c580db022dc1a976d2a094762c3",
+                "reference": "9191117e18a18c580db022dc1a976d2a094762c3",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1395,7 +1395,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2025-12-16T17:30:59+00:00"
+            "time": "2026-02-13T23:18:02+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -1403,12 +1403,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_styled_block.git",
-                "reference": "e9b6419c92042bb10fde5bc8614c3bb0fa16ba2c"
+                "reference": "a7560eb70427ec75c3a0390b54b28d129f71e3ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/e9b6419c92042bb10fde5bc8614c3bb0fa16ba2c",
-                "reference": "e9b6419c92042bb10fde5bc8614c3bb0fa16ba2c",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_styled_block/zipball/a7560eb70427ec75c3a0390b54b28d129f71e3ba",
+                "reference": "a7560eb70427ec75c3a0390b54b28d129f71e3ba",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1422,7 +1422,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_styled_block/issues",
                 "source": "https://github.com/CuBoulder/ucb_styled_block/tree/main"
             },
-            "time": "2026-02-03T18:19:57+00:00"
+            "time": "2026-02-13T23:31:49+00:00"
         },
         {
             "name": "cu-boulder/ucb_third_party_libraries",
@@ -2226,17 +2226,17 @@
         },
         {
             "name": "drupal/aggregator",
-            "version": "2.2.2",
+            "version": "2.2.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/aggregator.git",
-                "reference": "2.2.2"
+                "reference": "2.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/aggregator-2.2.2.zip",
-                "reference": "2.2.2",
-                "shasum": "f0b4ebe398f84cd05ec9ea0a101289cc565056f1"
+                "url": "https://ftp.drupal.org/files/projects/aggregator-2.2.3.zip",
+                "reference": "2.2.3",
+                "shasum": "a5339669cd0fdfdf486492bd36c882919cd46882"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
@@ -2245,8 +2245,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.2",
-                    "datestamp": "1722919252",
+                    "version": "2.2.3",
+                    "datestamp": "1771280901",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7059,16 +7059,16 @@
         },
         {
             "name": "justinrainbow/json-schema",
-            "version": "6.6.4",
+            "version": "v6.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jsonrainbow/json-schema.git",
-                "reference": "2eeb75d21cf73211335888e7f5e6fd7440723ec7"
+                "reference": "6fea66c7204683af437864e7c4e7abf383d14bc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/2eeb75d21cf73211335888e7f5e6fd7440723ec7",
-                "reference": "2eeb75d21cf73211335888e7f5e6fd7440723ec7",
+                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/6fea66c7204683af437864e7c4e7abf383d14bc0",
+                "reference": "6fea66c7204683af437864e7c4e7abf383d14bc0",
                 "shasum": ""
             },
             "require": {
@@ -7128,9 +7128,9 @@
             ],
             "support": {
                 "issues": "https://github.com/jsonrainbow/json-schema/issues",
-                "source": "https://github.com/jsonrainbow/json-schema/tree/6.6.4"
+                "source": "https://github.com/jsonrainbow/json-schema/tree/v6.7.2"
             },
-            "time": "2025-12-19T15:01:32+00:00"
+            "time": "2026-02-15T15:06:22+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -8186,7 +8186,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "b18024de4b138b6de6d7a1473d156c98a67488da"
+                "reference": "6df51a6ffc8f8b713e29aca5dad6179d06fc9fa6"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8224,7 +8224,7 @@
                 "doctrine/persistence": "4.1.1",
                 "drupal/admin_toolbar": "3.6.3",
                 "drupal/administerusersbyrole": "3.6.0",
-                "drupal/aggregator": "2.2.2",
+                "drupal/aggregator": "2.2.3",
                 "drupal/anchor_link": "3.0.4",
                 "drupal/antibot": "2.0.4",
                 "drupal/better_social_sharing_buttons": "4.1.0",
@@ -8291,7 +8291,7 @@
                 "guzzlehttp/guzzle": "7.10.0",
                 "guzzlehttp/promises": "2.3.0",
                 "guzzlehttp/psr7": "2.8.0",
-                "justinrainbow/json-schema": "6.6.4",
+                "justinrainbow/json-schema": "v6.7.2",
                 "laminas/laminas-escaper": "2.18.0",
                 "laminas/laminas-feed": "2.26.0",
                 "laminas/laminas-stdlib": "3.21.0",
