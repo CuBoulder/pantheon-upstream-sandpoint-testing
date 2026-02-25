@@ -885,16 +885,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260204",
+            "version": "20260225",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "8878aae24bcf25819872bf29ae704d2cd281e884"
+                "reference": "c54f3504b713e9d16db39f8598ece156b9868559"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/8878aae24bcf25819872bf29ae704d2cd281e884",
-                "reference": "8878aae24bcf25819872bf29ae704d2cd281e884",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/c54f3504b713e9d16db39f8598ece156b9868559",
+                "reference": "c54f3504b713e9d16db39f8598ece156b9868559",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -905,9 +905,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260204"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260225"
             },
-            "time": "2026-02-04T18:50:36+00:00"
+            "time": "2026-02-25T20:07:32+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1190,12 +1190,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "d1514c573e1536b0a4b188af04f5c105bd7792bd"
+                "reference": "00b8756d22b90c319450b2c93033d5ab846de688"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/d1514c573e1536b0a4b188af04f5c105bd7792bd",
-                "reference": "d1514c573e1536b0a4b188af04f5c105bd7792bd",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/00b8756d22b90c319450b2c93033d5ab846de688",
+                "reference": "00b8756d22b90c319450b2c93033d5ab846de688",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1209,7 +1209,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2026-02-11T23:16:35+00:00"
+            "time": "2026-02-24T19:51:33+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -2454,7 +2454,7 @@
             "extra": {
                 "drupal": {
                     "version": "2.0.10",
-                    "datestamp": "1770647534",
+                    "datestamp": "1772046216",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3589,20 +3589,20 @@
         },
         {
             "name": "drupal/entity_usage",
-            "version": "2.0.0-beta26",
+            "version": "2.0.0-beta28",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/entity_usage.git",
-                "reference": "8.x-2.0-beta26"
+                "reference": "8.x-2.0-beta28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/entity_usage-8.x-2.0-beta26.zip",
-                "reference": "8.x-2.0-beta26",
-                "shasum": "316adfeb7b17bafe7cdd0f6867a59825ee7bb7d2"
+                "url": "https://ftp.drupal.org/files/projects/entity_usage-8.x-2.0-beta28.zip",
+                "reference": "8.x-2.0-beta28",
+                "shasum": "7e97367d1c583a41dfab91226e4f688309ae2ce7"
             },
             "require": {
-                "drupal/core": "^10.2 || ^11"
+                "drupal/core": "^10.3 || ^11"
             },
             "require-dev": {
                 "drupal/block_field": "~1.0",
@@ -3620,8 +3620,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-2.0-beta26",
-                    "datestamp": "1770826893",
+                    "version": "8.x-2.0-beta28",
+                    "datestamp": "1771495229",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -4354,17 +4354,17 @@
         },
         {
             "name": "drupal/linkit",
-            "version": "7.0.12",
+            "version": "7.0.13",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/linkit.git",
-                "reference": "7.0.12"
+                "reference": "7.0.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.12.zip",
-                "reference": "7.0.12",
-                "shasum": "be60722e708e12be1596a804e816652c3c7ea815"
+                "url": "https://ftp.drupal.org/files/projects/linkit-7.0.13.zip",
+                "reference": "7.0.13",
+                "shasum": "918d001248b4a394eb1c4e097e7d243959280489"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -4372,8 +4372,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "7.0.12",
-                    "datestamp": "1765468273",
+                    "version": "7.0.13",
+                    "datestamp": "1772036178",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -8186,7 +8186,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "6df51a6ffc8f8b713e29aca5dad6179d06fc9fa6"
+                "reference": "35ee0af8e8dbe4f60277ef17de3fa730360c6027"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8194,7 +8194,7 @@
                 "caxy/php-htmldiff": "v0.1.17",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
-                "cu-boulder/boulder_base": "20260204",
+                "cu-boulder/boulder_base": "20260225",
                 "cu-boulder/boulder_profile": "20260211",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
@@ -8244,7 +8244,7 @@
                 "drupal/embed": "1.10.0",
                 "drupal/entity_embed": "1.7.0",
                 "drupal/entity_reference_revisions": "1.14.0",
-                "drupal/entity_usage": "2.0.0-beta26",
+                "drupal/entity_usage": "2.0.0-beta28",
                 "drupal/externalauth": "2.0.9",
                 "drupal/features": "3.16.0",
                 "drupal/field_group": "3.6.0",
@@ -8255,7 +8255,7 @@
                 "drupal/klaro": "3.0.8",
                 "drupal/klaro_js": "3.0.1",
                 "drupal/layout_builder_iframe_modal": "1.3.7",
-                "drupal/linkit": "7.0.12",
+                "drupal/linkit": "7.0.13",
                 "drupal/meaofd": "1.1.0",
                 "drupal/media_alias_display": "2.1.1",
                 "drupal/media_entity_file_replace": "1.3.0",
