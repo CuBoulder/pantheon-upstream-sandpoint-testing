@@ -43,6 +43,11 @@
                     "description": "Add Reusable Option to Inline Block Creation",
                     "url": "patches/add_reusable_option_to_inline_block_creation-drupal11.3.3.patch",
                     "depth": 1
+                },
+                {
+                    "description": "Null escape patch",
+                    "url": "patches/fix-type-error-null-text-3523317021.patch",
+                    "depth": 3
                 }
             ],
             "pantheon-systems/upstream-management": [

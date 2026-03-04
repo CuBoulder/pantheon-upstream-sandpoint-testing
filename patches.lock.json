@@ -1,5 +1,5 @@
 {
-    "_hash": "2d5703a8a75a8e8259fa8865bab5b542719dd38eef2e38f77cded0ce5b3400ec",
+    "_hash": "7d42f384ccacdede7d55d1c7e9c8643de636faa9acbcd78751f9ae9196978888",
     "patches": {
         "drupal/core": [
             {
@@ -8,6 +8,16 @@
                 "url": "patches/add_reusable_option_to_inline_block_creation-drupal11.3.3.patch",
                 "sha256": "0e68d7720cd93758afa3f33aaf3a4efd414d165d2c547d25a255e82ad41df997",
                 "depth": 1,
+                "extra": {
+                    "provenance": "root"
+                }
+            },
+            {
+                "package": "drupal/core",
+                "description": "Null escape patch",
+                "url": "patches/fix-type-error-null-text-3523317021.patch",
+                "sha256": "a29cf91a6949c60ba41042632944a25f0afd54551ad16eab52ceee68ef98f6b2",
+                "depth": 3,
                 "extra": {
                     "provenance": "root"
                 }
