@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "197e70b8c906a4dd31a36f71e6e80f30",
+    "content-hash": "168a52a0179f4f7b49f62bd26c7358d7",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -691,16 +691,16 @@
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
-            "version": "20260204",
+            "version": "20260310",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "8939515119d374e8b4ef52501a80da63e1aebc00"
+                "reference": "0a3f4dacb8a282ee640242bf3481fe9767f0d9a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/8939515119d374e8b4ef52501a80da63e1aebc00",
-                "reference": "8939515119d374e8b4ef52501a80da63e1aebc00",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/0a3f4dacb8a282ee640242bf3481fe9767f0d9a2",
+                "reference": "0a3f4dacb8a282ee640242bf3481fe9767f0d9a2",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -711,9 +711,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260204"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260310"
             },
-            "time": "2026-02-04T18:46:15+00:00"
+            "time": "2026-03-10T22:08:25+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
