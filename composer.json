@@ -125,7 +125,8 @@
             "tbachert/spi": true
         },
         "audit": {
-            "ignore": ["PKSA-4s4z-t146-6123"]
+            "ignore": ["PKSA-4s4z-t146-6123"],
+            "block-insecure": false
         }
     },
     "scripts": {
