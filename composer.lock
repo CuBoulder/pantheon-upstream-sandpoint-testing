@@ -1140,16 +1140,16 @@
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
-            "version": "20260310",
+            "version": "20260331",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "0a3f4dacb8a282ee640242bf3481fe9767f0d9a2"
+                "reference": "92b44cce0bb49b07d4d15a38157a1417ec9137ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/0a3f4dacb8a282ee640242bf3481fe9767f0d9a2",
-                "reference": "0a3f4dacb8a282ee640242bf3481fe9767f0d9a2",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/92b44cce0bb49b07d4d15a38157a1417ec9137ae",
+                "reference": "92b44cce0bb49b07d4d15a38157a1417ec9137ae",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1160,9 +1160,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260310"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260331"
             },
-            "time": "2026-03-10T22:08:25+00:00"
+            "time": "2026-04-01T20:05:58+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -8126,7 +8126,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "c302eac7ba842cfbb29f0ec96a81d371e9511636"
+                "reference": "a0c046bf91fdd0e4d0bb29330f7cfdab9134e5e9"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8146,7 +8146,7 @@
                 "cu-boulder/ucb_campus_map": "dev-main",
                 "cu-boulder/ucb_campus_news": "dev-main",
                 "cu-boulder/ucb_ckeditor_plugins": "dev-main",
-                "cu-boulder/ucb_custom_entities": "20260310",
+                "cu-boulder/ucb_custom_entities": "20260331",
                 "cu-boulder/ucb_default_content": "dev-main",
                 "cu-boulder/ucb_drush_commands": "v1.2.0",
                 "cu-boulder/ucb_focal_image_enable": "dev-main",
