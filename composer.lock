@@ -812,16 +812,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260331",
+            "version": "20260402",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "15d952fdd838f2d0b23b035f6e1bc8405981fb05"
+                "reference": "2c82125f5c3e4c17aa51b84f7ed82cce661525d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/15d952fdd838f2d0b23b035f6e1bc8405981fb05",
-                "reference": "15d952fdd838f2d0b23b035f6e1bc8405981fb05",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/2c82125f5c3e4c17aa51b84f7ed82cce661525d1",
+                "reference": "2c82125f5c3e4c17aa51b84f7ed82cce661525d1",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -832,9 +832,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260331"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260402"
             },
-            "time": "2026-03-31T22:41:27+00:00"
+            "time": "2026-04-02T20:52:55+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1140,16 +1140,16 @@
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
-            "version": "20260331",
+            "version": "20260402",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "92b44cce0bb49b07d4d15a38157a1417ec9137ae"
+                "reference": "74240612c8563b27febc5e9ca0636c3c5b784c33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/92b44cce0bb49b07d4d15a38157a1417ec9137ae",
-                "reference": "92b44cce0bb49b07d4d15a38157a1417ec9137ae",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/74240612c8563b27febc5e9ca0636c3c5b784c33",
+                "reference": "74240612c8563b27febc5e9ca0636c3c5b784c33",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1160,9 +1160,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260331"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260402"
             },
-            "time": "2026-04-01T20:05:58+00:00"
+            "time": "2026-04-02T20:49:59+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -6194,12 +6194,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "e5a1fc59582bbae47487260c5f937484d0db86cc"
+                "reference": "49457a4dbc7043f95db584924966e07eb693416e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/e5a1fc59582bbae47487260c5f937484d0db86cc",
-                "reference": "e5a1fc59582bbae47487260c5f937484d0db86cc",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/49457a4dbc7043f95db584924966e07eb693416e",
+                "reference": "49457a4dbc7043f95db584924966e07eb693416e",
                 "shasum": ""
             },
             "require": {
@@ -6336,7 +6336,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-04-01T18:20:25+00:00"
+            "time": "2026-04-02T12:29:25+00:00"
         },
         {
             "name": "e0ipso/shaper",
@@ -6999,16 +6999,16 @@
         },
         {
             "name": "justinrainbow/json-schema",
-            "version": "v6.7.2",
+            "version": "6.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jsonrainbow/json-schema.git",
-                "reference": "6fea66c7204683af437864e7c4e7abf383d14bc0"
+                "reference": "89ac92bcfe5d0a8a4433c7b89d394553ae7250cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/6fea66c7204683af437864e7c4e7abf383d14bc0",
-                "reference": "6fea66c7204683af437864e7c4e7abf383d14bc0",
+                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/89ac92bcfe5d0a8a4433c7b89d394553ae7250cc",
+                "reference": "89ac92bcfe5d0a8a4433c7b89d394553ae7250cc",
                 "shasum": ""
             },
             "require": {
@@ -7068,9 +7068,9 @@
             ],
             "support": {
                 "issues": "https://github.com/jsonrainbow/json-schema/issues",
-                "source": "https://github.com/jsonrainbow/json-schema/tree/v6.7.2"
+                "source": "https://github.com/jsonrainbow/json-schema/tree/6.8.0"
             },
-            "time": "2026-02-15T15:06:22+00:00"
+            "time": "2026-04-02T12:43:11+00:00"
         },
         {
             "name": "laminas/laminas-escaper",
@@ -8126,7 +8126,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "a0c046bf91fdd0e4d0bb29330f7cfdab9134e5e9"
+                "reference": "58d27197831dd1df713f3258a73c5edecc7c69ea"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8134,7 +8134,7 @@
                 "caxy/php-htmldiff": "v0.1.17",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
-                "cu-boulder/boulder_base": "20260331",
+                "cu-boulder/boulder_base": "20260402",
                 "cu-boulder/boulder_profile": "20260331",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
@@ -8146,7 +8146,7 @@
                 "cu-boulder/ucb_campus_map": "dev-main",
                 "cu-boulder/ucb_campus_news": "dev-main",
                 "cu-boulder/ucb_ckeditor_plugins": "dev-main",
-                "cu-boulder/ucb_custom_entities": "20260331",
+                "cu-boulder/ucb_custom_entities": "20260402",
                 "cu-boulder/ucb_default_content": "dev-main",
                 "cu-boulder/ucb_drush_commands": "v1.2.0",
                 "cu-boulder/ucb_focal_image_enable": "dev-main",
@@ -8231,7 +8231,7 @@
                 "guzzlehttp/guzzle": "7.10.0",
                 "guzzlehttp/promises": "2.3.0",
                 "guzzlehttp/psr7": "2.8.1",
-                "justinrainbow/json-schema": "v6.7.2",
+                "justinrainbow/json-schema": "6.8.0",
                 "laminas/laminas-escaper": "2.18.0",
                 "laminas/laminas-feed": "2.26.1",
                 "laminas/laminas-stdlib": "3.21.0",
