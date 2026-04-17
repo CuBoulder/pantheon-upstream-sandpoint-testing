@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "298cce61e739ab4d0713e9913bfd62cc",
+    "content-hash": "f17973967436b2ab13d9f517c5e61c5d",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -744,16 +744,16 @@
         },
         {
             "name": "cu-boulder/ucb_drush_commands",
-            "version": "v1.2.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "826dd7cd3910b9bbe70574017ccb84dfac3b4059"
+                "reference": "1ff2de1ce86aba1c37a395001db3a57ac7be6540"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/826dd7cd3910b9bbe70574017ccb84dfac3b4059",
-                "reference": "826dd7cd3910b9bbe70574017ccb84dfac3b4059",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/1ff2de1ce86aba1c37a395001db3a57ac7be6540",
+                "reference": "1ff2de1ce86aba1c37a395001db3a57ac7be6540",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -764,9 +764,9 @@
             "description": "Repository of drush commands to extend drush functionality for CU Boulder.",
             "support": {
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
-                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/v1.2.0"
+                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/v1.2.1"
             },
-            "time": "2025-11-19T15:38:57+00:00"
+            "time": "2026-04-17T19:47:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",

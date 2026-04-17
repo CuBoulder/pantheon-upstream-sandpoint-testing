@@ -1193,16 +1193,16 @@
         },
         {
             "name": "cu-boulder/ucb_drush_commands",
-            "version": "v1.2.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_drush_commands.git",
-                "reference": "826dd7cd3910b9bbe70574017ccb84dfac3b4059"
+                "reference": "1ff2de1ce86aba1c37a395001db3a57ac7be6540"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/826dd7cd3910b9bbe70574017ccb84dfac3b4059",
-                "reference": "826dd7cd3910b9bbe70574017ccb84dfac3b4059",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_drush_commands/zipball/1ff2de1ce86aba1c37a395001db3a57ac7be6540",
+                "reference": "1ff2de1ce86aba1c37a395001db3a57ac7be6540",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1213,9 +1213,9 @@
             "description": "Repository of drush commands to extend drush functionality for CU Boulder.",
             "support": {
                 "issues": "https://github.com/CuBoulder/ucb_drush_commands/issues",
-                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/v1.2.0"
+                "source": "https://github.com/CuBoulder/ucb_drush_commands/tree/v1.2.1"
             },
-            "time": "2025-11-19T15:38:57+00:00"
+            "time": "2026-04-17T19:47:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_focal_image_enable",
@@ -8126,7 +8126,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "4d21c6e58ea87b548a68e3b0f2d83ce6879d53e0"
+                "reference": "ec4cc831309794bef99c101d2c06527c4cb3269f"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8148,7 +8148,7 @@
                 "cu-boulder/ucb_ckeditor_plugins": "dev-main",
                 "cu-boulder/ucb_custom_entities": "20260402",
                 "cu-boulder/ucb_default_content": "dev-main",
-                "cu-boulder/ucb_drush_commands": "v1.2.0",
+                "cu-boulder/ucb_drush_commands": "v1.2.1",
                 "cu-boulder/ucb_focal_image_enable": "dev-main",
                 "cu-boulder/ucb_linkmod": "v1.1.0",
                 "cu-boulder/ucb_person_title": "dev-main",

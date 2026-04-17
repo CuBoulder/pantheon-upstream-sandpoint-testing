@@ -39,7 +39,7 @@
         "cu-boulder/ucb_ckeditor_plugins": "dev-main",
         "cu-boulder/ucb_custom_entities": "20260402",
         "cu-boulder/ucb_default_content": "dev-main",
-        "cu-boulder/ucb_drush_commands": "v1.2.0",
+        "cu-boulder/ucb_drush_commands": "v1.2.1",
         "cu-boulder/ucb_focal_image_enable": "dev-main",
         "cu-boulder/ucb_linkmod": "v1.1.0",
         "cu-boulder/ucb_person_title": "dev-main",
