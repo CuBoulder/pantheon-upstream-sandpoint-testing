@@ -812,16 +812,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260402",
+            "version": "20260421",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "2c82125f5c3e4c17aa51b84f7ed82cce661525d1"
+                "reference": "2ea46de2ab576712b8c30555ca477a7652b51b62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/2c82125f5c3e4c17aa51b84f7ed82cce661525d1",
-                "reference": "2c82125f5c3e4c17aa51b84f7ed82cce661525d1",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/2ea46de2ab576712b8c30555ca477a7652b51b62",
+                "reference": "2ea46de2ab576712b8c30555ca477a7652b51b62",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -832,9 +832,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260402"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260421"
             },
-            "time": "2026-04-02T20:52:55+00:00"
+            "time": "2026-04-21T17:12:50+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -2648,16 +2648,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "11.3.7",
+            "version": "11.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "bb36d7d09b0132185bd33be730ec2e6d35c2d627"
+                "reference": "d40f45fa436fb089cd54029d2dab387c3040fc2c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/bb36d7d09b0132185bd33be730ec2e6d35c2d627",
-                "reference": "bb36d7d09b0132185bd33be730ec2e6d35c2d627",
+                "url": "https://api.github.com/repos/drupal/core/zipball/d40f45fa436fb089cd54029d2dab387c3040fc2c",
+                "reference": "d40f45fa436fb089cd54029d2dab387c3040fc2c",
                 "shasum": ""
             },
             "require": {
@@ -2815,13 +2815,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/11.3.7"
+                "source": "https://github.com/drupal/core/tree/11.3.8"
             },
-            "time": "2026-04-15T15:47:32+00:00"
+            "time": "2026-04-20T07:33:20+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "11.3.7",
+            "version": "11.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -2865,13 +2865,13 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/11.3.7"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/11.3.8"
             },
             "time": "2026-02-10T11:39:53+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "11.3.7",
+            "version": "11.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -2906,29 +2906,29 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-project-message/tree/11.3.7"
+                "source": "https://github.com/drupal/core-project-message/tree/11.3.8"
             },
             "time": "2025-02-03T10:59:29+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "11.3.7",
+            "version": "11.3.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "fb5d6475f4f564d5fa8a8846e4b5e1b97cdfeb94"
+                "reference": "9c1fa4615a7542504be882eed0c6763b445fb852"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/fb5d6475f4f564d5fa8a8846e4b5e1b97cdfeb94",
-                "reference": "fb5d6475f4f564d5fa8a8846e4b5e1b97cdfeb94",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/9c1fa4615a7542504be882eed0c6763b445fb852",
+                "reference": "9c1fa4615a7542504be882eed0c6763b445fb852",
                 "shasum": ""
             },
             "require": {
                 "asm89/stack-cors": "~v2.3.0",
                 "composer/semver": "~3.4.4",
                 "doctrine/lexer": "~3.0.1",
-                "drupal/core": "11.3.7",
+                "drupal/core": "11.3.8",
                 "egulias/email-validator": "~4.0.4",
                 "guzzlehttp/guzzle": "~7.10.0",
                 "guzzlehttp/promises": "~2.3.0",
@@ -2990,9 +2990,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/11.3.7"
+                "source": "https://github.com/drupal/core-recommended/tree/11.3.8"
             },
-            "time": "2026-04-15T15:47:32+00:00"
+            "time": "2026-04-20T07:33:20+00:00"
         },
         {
             "name": "drupal/crop",
@@ -5266,17 +5266,17 @@
         },
         {
             "name": "drupal/rebuild_cache_access",
-            "version": "1.12.0",
+            "version": "1.13.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/rebuild_cache_access.git",
-                "reference": "8.x-1.12"
+                "reference": "8.x-1.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/rebuild_cache_access-8.x-1.12.zip",
-                "reference": "8.x-1.12",
-                "shasum": "1c6bff8f2ddb4cf943b986ac40932c63c1bd749c"
+                "url": "https://ftp.drupal.org/files/projects/rebuild_cache_access-8.x-1.13.zip",
+                "reference": "8.x-1.13",
+                "shasum": "fe646e8750cdf78a2001297518a3bdf9de458b8f"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -5284,8 +5284,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.12",
-                    "datestamp": "1726835281",
+                    "version": "8.x-1.13",
+                    "datestamp": "1776593115",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5952,17 +5952,17 @@
         },
         {
             "name": "drupal/twig_tweak",
-            "version": "3.4.1",
+            "version": "3.4.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/twig_tweak.git",
-                "reference": "3.4.1"
+                "reference": "3.4.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/twig_tweak-3.4.1.zip",
-                "reference": "3.4.1",
-                "shasum": "ceaa5ea8f357ce8827c728f22871265f0f7cd74f"
+                "url": "https://ftp.drupal.org/files/projects/twig_tweak-3.4.2.zip",
+                "reference": "3.4.2",
+                "shasum": "c31272a550c05981ca21b1eacc37abfe62cf2598"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11.0",
@@ -5976,8 +5976,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.4.1",
-                    "datestamp": "1748530577",
+                    "version": "3.4.2",
+                    "datestamp": "1776781834",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7275,16 +7275,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.16",
+            "version": "v0.3.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "11e7d5f93803a2190b00e145142cb00a33d17ad2"
+                "reference": "6a82ac19a28b916ae0885828795dbd4c59d9a818"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/11e7d5f93803a2190b00e145142cb00a33d17ad2",
-                "reference": "11e7d5f93803a2190b00e145142cb00a33d17ad2",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/6a82ac19a28b916ae0885828795dbd4c59d9a818",
+                "reference": "6a82ac19a28b916ae0885828795dbd4c59d9a818",
                 "shasum": ""
             },
             "require": {
@@ -7328,9 +7328,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.16"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.17"
             },
-            "time": "2026-03-23T14:35:33+00:00"
+            "time": "2026-04-20T16:07:33+00:00"
         },
         {
             "name": "league/container",
@@ -8126,7 +8126,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "ec4cc831309794bef99c101d2c06527c4cb3269f"
+                "reference": "9198a25bfcd2b3f0bc18db7e91c183377435bbf6"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8134,7 +8134,7 @@
                 "caxy/php-htmldiff": "v0.1.17",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
-                "cu-boulder/boulder_base": "20260402",
+                "cu-boulder/boulder_base": "20260421",
                 "cu-boulder/boulder_profile": "20260331",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
@@ -8173,10 +8173,10 @@
                 "drupal/config_update": "2.0.0-alpha4",
                 "drupal/consumer_image_styles": "4.0.10",
                 "drupal/consumers": "1.24.0",
-                "drupal/core": "11.3.7",
-                "drupal/core-composer-scaffold": "11.3.7",
-                "drupal/core-project-message": "11.3.7",
-                "drupal/core-recommended": "11.3.7",
+                "drupal/core": "11.3.8",
+                "drupal/core-composer-scaffold": "11.3.8",
+                "drupal/core-project-message": "11.3.8",
+                "drupal/core-recommended": "11.3.8",
                 "drupal/crop": "2.6.0",
                 "drupal/ctools": "4.1.0",
                 "drupal/devel": "5.5.0",
@@ -8210,7 +8210,7 @@
                 "drupal/pantheon_advanced_page_cache": "2.3.4",
                 "drupal/paragraphs": "1.20.0",
                 "drupal/pathauto": "1.14.0",
-                "drupal/rebuild_cache_access": "1.12.0",
+                "drupal/rebuild_cache_access": "1.13.0",
                 "drupal/recaptcha_v3": "2.0.4",
                 "drupal/redirect": "1.12.0",
                 "drupal/redis": "1.11.0",
@@ -8221,7 +8221,7 @@
                 "drupal/smtp": "1.4.0",
                 "drupal/token": "1.17.0",
                 "drupal/trash": "3.0.26",
-                "drupal/twig_tweak": "3.4.1",
+                "drupal/twig_tweak": "3.4.2",
                 "drupal/unpublished_404": "2.0.3",
                 "drupal/webform": "6.3.0-beta8",
                 "e0ipso/shaper": "1.2.7",
