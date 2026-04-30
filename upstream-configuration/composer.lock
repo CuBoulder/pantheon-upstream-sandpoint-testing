@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b51205489e7890313f699eb703efe75a",
+    "content-hash": "37986e1539a6c265dc334cc0b31a6f50",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -363,16 +363,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260429",
+            "version": "20260430",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "79fbce62656b23c19a866417eb1c3340407c048e"
+                "reference": "69802f7a19254e3a06298754e1585ea740e0be15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/79fbce62656b23c19a866417eb1c3340407c048e",
-                "reference": "79fbce62656b23c19a866417eb1c3340407c048e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/69802f7a19254e3a06298754e1585ea740e0be15",
+                "reference": "69802f7a19254e3a06298754e1585ea740e0be15",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -383,9 +383,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260429"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260430"
             },
-            "time": "2026-04-29T19:10:35+00:00"
+            "time": "2026-04-30T20:27:29+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
