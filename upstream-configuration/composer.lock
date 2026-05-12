@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8ebda5522350b5fab5b34221cccb7e27",
+    "content-hash": "48267f9f6dd7892fa495e2d20bd2e0ce",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -363,16 +363,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260512",
+            "version": "20260512a",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "1885e705a90f58f0742df34c4b1a716c98334967"
+                "reference": "950fa25f7f97e0ebf636b899e7ff7af463ca8aa3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1885e705a90f58f0742df34c4b1a716c98334967",
-                "reference": "1885e705a90f58f0742df34c4b1a716c98334967",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/950fa25f7f97e0ebf636b899e7ff7af463ca8aa3",
+                "reference": "950fa25f7f97e0ebf636b899e7ff7af463ca8aa3",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -383,9 +383,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260512"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260512a"
             },
-            "time": "2026-05-12T18:51:33+00:00"
+            "time": "2026-05-12T20:00:31+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -10855,6 +10855,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "cu-boulder/boulder_base": 15,
         "cu-boulder/ckeditor5_bootstrap_accordion": 20,
         "cu-boulder/ckeditor5_icons": 20,
         "cu-boulder/express_admin": 20,

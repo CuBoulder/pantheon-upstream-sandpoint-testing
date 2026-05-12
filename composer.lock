@@ -812,16 +812,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260512",
+            "version": "20260512a",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "1885e705a90f58f0742df34c4b1a716c98334967"
+                "reference": "950fa25f7f97e0ebf636b899e7ff7af463ca8aa3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1885e705a90f58f0742df34c4b1a716c98334967",
-                "reference": "1885e705a90f58f0742df34c4b1a716c98334967",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/950fa25f7f97e0ebf636b899e7ff7af463ca8aa3",
+                "reference": "950fa25f7f97e0ebf636b899e7ff7af463ca8aa3",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -832,9 +832,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260512"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260512a"
             },
-            "time": "2026-05-12T18:51:33+00:00"
+            "time": "2026-05-12T20:00:31+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -8202,7 +8202,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "93b1654b19e59412d1f345385e63297e4425feeb"
+                "reference": "d9050cbbaf8fb3d840efca55ed3f83905fa44e74"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8210,7 +8210,7 @@
                 "caxy/php-htmldiff": "v0.1.17",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
-                "cu-boulder/boulder_base": "20260512",
+                "cu-boulder/boulder_base": "20260512a",
                 "cu-boulder/boulder_profile": "20260429",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
