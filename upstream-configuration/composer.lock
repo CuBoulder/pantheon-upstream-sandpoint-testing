@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "84a3fb97e22bc55cfcedb1a109b493e3",
+    "content-hash": "5378a7efc6714271f60fc912b6282ce2",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -389,16 +389,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20260624",
+            "version": "20260624a",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "1e1f7628c48a35fbe90b67b2db693c2127ea06a3"
+                "reference": "eb9d4ef2b395d8e2e2ab27b41e8aa0dbc91bfd09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/1e1f7628c48a35fbe90b67b2db693c2127ea06a3",
-                "reference": "1e1f7628c48a35fbe90b67b2db693c2127ea06a3",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/eb9d4ef2b395d8e2e2ab27b41e8aa0dbc91bfd09",
+                "reference": "eb9d4ef2b395d8e2e2ab27b41e8aa0dbc91bfd09",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -409,9 +409,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260624"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260624a"
             },
-            "time": "2026-06-24T17:38:38+00:00"
+            "time": "2026-06-24T20:24:56+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -4541,17 +4541,17 @@
         },
         {
             "name": "drupal/paragraphs",
-            "version": "1.20.0",
+            "version": "1.21.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/paragraphs.git",
-                "reference": "8.x-1.20"
+                "reference": "8.x-1.21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/paragraphs-8.x-1.20.zip",
-                "reference": "8.x-1.20",
-                "shasum": "68051cc8c025aa3f62fd44a219d158361928a4ad"
+                "url": "https://ftp.drupal.org/files/projects/paragraphs-8.x-1.21.zip",
+                "reference": "8.x-1.21",
+                "shasum": "5638fab65f5c9cf954ef369411b2ee64d41e21f9"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -4564,7 +4564,7 @@
                 "drupal/entity_usage": "2.x-dev",
                 "drupal/feeds": "^3",
                 "drupal/field_group": "3.x-dev",
-                "drupal/inline_entity_form": "3.x-dev",
+                "drupal/inline_entity_form": "^3",
                 "drupal/paragraphs-paragraphs_library": "*",
                 "drupal/replicate": "1.x-dev",
                 "drupal/search_api": "^1",
@@ -4576,8 +4576,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.20",
-                    "datestamp": "1767269542",
+                    "version": "8.x-1.21",
+                    "datestamp": "1782326108",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -11025,6 +11025,7 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "cu-boulder/boulder_profile": 15,
         "cu-boulder/ckeditor5_bootstrap_accordion": 20,
         "cu-boulder/ckeditor5_icons": 20,
         "cu-boulder/express_admin": 20,

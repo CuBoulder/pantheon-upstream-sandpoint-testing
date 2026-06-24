@@ -838,16 +838,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20260624",
+            "version": "20260624a",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "1e1f7628c48a35fbe90b67b2db693c2127ea06a3"
+                "reference": "eb9d4ef2b395d8e2e2ab27b41e8aa0dbc91bfd09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/1e1f7628c48a35fbe90b67b2db693c2127ea06a3",
-                "reference": "1e1f7628c48a35fbe90b67b2db693c2127ea06a3",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/eb9d4ef2b395d8e2e2ab27b41e8aa0dbc91bfd09",
+                "reference": "eb9d4ef2b395d8e2e2ab27b41e8aa0dbc91bfd09",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -858,9 +858,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260624"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260624a"
             },
-            "time": "2026-06-24T17:38:38+00:00"
+            "time": "2026-06-24T20:24:56+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -5188,17 +5188,17 @@
         },
         {
             "name": "drupal/paragraphs",
-            "version": "1.20.0",
+            "version": "1.21.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/paragraphs.git",
-                "reference": "8.x-1.20"
+                "reference": "8.x-1.21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/paragraphs-8.x-1.20.zip",
-                "reference": "8.x-1.20",
-                "shasum": "68051cc8c025aa3f62fd44a219d158361928a4ad"
+                "url": "https://ftp.drupal.org/files/projects/paragraphs-8.x-1.21.zip",
+                "reference": "8.x-1.21",
+                "shasum": "5638fab65f5c9cf954ef369411b2ee64d41e21f9"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -5211,7 +5211,7 @@
                 "drupal/entity_usage": "2.x-dev",
                 "drupal/feeds": "^3",
                 "drupal/field_group": "3.x-dev",
-                "drupal/inline_entity_form": "3.x-dev",
+                "drupal/inline_entity_form": "^3",
                 "drupal/paragraphs-paragraphs_library": "*",
                 "drupal/replicate": "1.x-dev",
                 "drupal/search_api": "^1",
@@ -5223,8 +5223,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.20",
-                    "datestamp": "1767269542",
+                    "version": "8.x-1.21",
+                    "datestamp": "1782326108",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7428,16 +7428,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.18",
+            "version": "v0.3.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "a19af51bb144bf87f08397921fa619f85c7d4e72"
+                "reference": "6d53c826dfd33ec5f4ac91f816ff327727c7988b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/a19af51bb144bf87f08397921fa619f85c7d4e72",
-                "reference": "a19af51bb144bf87f08397921fa619f85c7d4e72",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/6d53c826dfd33ec5f4ac91f816ff327727c7988b",
+                "reference": "6d53c826dfd33ec5f4ac91f816ff327727c7988b",
                 "shasum": ""
             },
             "require": {
@@ -7481,9 +7481,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.18"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.20"
             },
-            "time": "2026-05-19T00:47:18+00:00"
+            "time": "2026-06-24T19:16:38+00:00"
         },
         {
             "name": "league/container",
@@ -8280,7 +8280,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "50b601b99a5872b0a20aa138f57d8f944f8c1f5b"
+                "reference": "a9829d67772486a8a716a879c54629036c6dd2bf"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8289,7 +8289,7 @@
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
                 "cu-boulder/boulder_base": "20260610",
-                "cu-boulder/boulder_profile": "20260624",
+                "cu-boulder/boulder_profile": "20260624a",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
                 "cu-boulder/express_admin": "dev-main",
@@ -8364,7 +8364,7 @@
                 "drupal/migrate_plus": "6.0.10",
                 "drupal/migrate_tools": "6.1.4",
                 "drupal/pantheon_advanced_page_cache": "2.3.4",
-                "drupal/paragraphs": "1.20.0",
+                "drupal/paragraphs": "1.21.0",
                 "drupal/pathauto": "1.15.0",
                 "drupal/rebuild_cache_access": "1.14.0",
                 "drupal/recaptcha_v3": "2.0.5",
