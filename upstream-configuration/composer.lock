@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9a6bb4828d59d22ba52d36e8c854700e",
+    "content-hash": "581953c362c4aa3de8f7dfe9782d7722",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -363,16 +363,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260708",
+            "version": "20260715",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "d40c2bf505c67cc1eb72d8adc0b54b2f57e59540"
+                "reference": "1adc806bfce7bcc58e840864e4d1397b5632dc7c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/d40c2bf505c67cc1eb72d8adc0b54b2f57e59540",
-                "reference": "d40c2bf505c67cc1eb72d8adc0b54b2f57e59540",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/1adc806bfce7bcc58e840864e4d1397b5632dc7c",
+                "reference": "1adc806bfce7bcc58e840864e4d1397b5632dc7c",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -383,9 +383,9 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260708"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260715"
             },
-            "time": "2026-07-08T15:24:41+00:00"
+            "time": "2026-07-15T18:55:55+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -3024,17 +3024,17 @@
         },
         {
             "name": "drupal/externalauth",
-            "version": "2.0.11",
+            "version": "2.0.12",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/externalauth.git",
-                "reference": "2.0.11"
+                "reference": "2.0.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/externalauth-2.0.11.zip",
-                "reference": "2.0.11",
-                "shasum": "f0f1eb7a386efda1066a392fd960792ac92386d6"
+                "url": "https://ftp.drupal.org/files/projects/externalauth-2.0.12.zip",
+                "reference": "2.0.12",
+                "shasum": "8bea36d373c25a5c8272b233e219946d355e7636"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -3042,8 +3042,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.11",
-                    "datestamp": "1772135408",
+                    "version": "2.0.12",
+                    "datestamp": "1784046748",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -3299,17 +3299,17 @@
         },
         {
             "name": "drupal/google_cse",
-            "version": "5.0.4",
+            "version": "5.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/google_cse.git",
-                "reference": "5.0.4"
+                "reference": "5.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/google_cse-5.0.4.zip",
-                "reference": "5.0.4",
-                "shasum": "efbf6a0beaa9434b2b4c8170e29feff4cfe0f5a3"
+                "url": "https://ftp.drupal.org/files/projects/google_cse-5.0.5.zip",
+                "reference": "5.0.5",
+                "shasum": "2f13c7f27fbf8b57b8cab4b51d18f86d0d77fbdd"
             },
             "require": {
                 "drupal/core": "^10|| ^11"
@@ -3317,8 +3317,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "5.0.4",
-                    "datestamp": "1777059154",
+                    "version": "5.0.5",
+                    "datestamp": "1784064940",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5567,7 +5567,7 @@
             "extra": {
                 "drupal": {
                     "version": "6.3.0",
-                    "datestamp": "1783604819",
+                    "datestamp": "1783989705",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6125,16 +6125,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.12.4",
+            "version": "2.12.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "51e27f9e2b332ab3e72f4520d5ff4f3c68c3577c"
+                "reference": "9365d578a9fd1552ad6ca9c3cb530708526feb09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/51e27f9e2b332ab3e72f4520d5ff4f3c68c3577c",
-                "reference": "51e27f9e2b332ab3e72f4520d5ff4f3c68c3577c",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/9365d578a9fd1552ad6ca9c3cb530708526feb09",
+                "reference": "9365d578a9fd1552ad6ca9c3cb530708526feb09",
                 "shasum": ""
             },
             "require": {
@@ -6224,7 +6224,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.12.4"
+                "source": "https://github.com/guzzle/psr7/tree/2.12.5"
             },
             "funding": [
                 {
@@ -6240,7 +6240,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-08T15:56:20+00:00"
+            "time": "2026-07-13T01:27:20+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
