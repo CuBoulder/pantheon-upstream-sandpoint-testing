@@ -2724,16 +2724,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "11.3.13",
+            "version": "11.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "a9334c83b262556bcd17785df981e0f49d1f191d"
+                "reference": "de48a76c916a06457d056b8c74cc40735164a072"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/a9334c83b262556bcd17785df981e0f49d1f191d",
-                "reference": "a9334c83b262556bcd17785df981e0f49d1f191d",
+                "url": "https://api.github.com/repos/drupal/core/zipball/de48a76c916a06457d056b8c74cc40735164a072",
+                "reference": "de48a76c916a06457d056b8c74cc40735164a072",
                 "shasum": ""
             },
             "require": {
@@ -2891,13 +2891,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/11.3.13"
+                "source": "https://github.com/drupal/core/tree/11.3.14"
             },
-            "time": "2026-06-23T07:19:39+00:00"
+            "time": "2026-07-15T18:02:30+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "11.3.13",
+            "version": "11.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -2941,13 +2941,13 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/11.3.13"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/11.3.14"
             },
             "time": "2026-02-10T11:39:53+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "11.3.13",
+            "version": "11.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -2982,29 +2982,29 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-project-message/tree/11.3.13"
+                "source": "https://github.com/drupal/core-project-message/tree/11.3.14"
             },
             "time": "2025-02-03T10:59:29+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "11.3.13",
+            "version": "11.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "63463ae5c05516388160b2339651611fe73f1a2a"
+                "reference": "0b5696c395c385da27348d777f1fbf07fe40d03e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/63463ae5c05516388160b2339651611fe73f1a2a",
-                "reference": "63463ae5c05516388160b2339651611fe73f1a2a",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/0b5696c395c385da27348d777f1fbf07fe40d03e",
+                "reference": "0b5696c395c385da27348d777f1fbf07fe40d03e",
                 "shasum": ""
             },
             "require": {
                 "asm89/stack-cors": "~v2.3.0",
                 "composer/semver": "~3.4.4",
                 "doctrine/lexer": "~3.0.1",
-                "drupal/core": "11.3.13",
+                "drupal/core": "11.3.14",
                 "egulias/email-validator": "~4.0.4",
                 "guzzlehttp/guzzle": "~7.12.1",
                 "guzzlehttp/promises": "~2.5.0",
@@ -3066,9 +3066,9 @@
             ],
             "description": "Core and its dependencies with known-compatible minor versions. Require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/11.3.13"
+                "source": "https://github.com/drupal/core-recommended/tree/11.3.14"
             },
-            "time": "2026-06-23T07:19:39+00:00"
+            "time": "2026-07-15T18:02:30+00:00"
         },
         {
             "name": "drupal/crop",
@@ -8276,7 +8276,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "a85e8703a8dbbb075a492e279b8bdb9700cab078"
+                "reference": "7ddc8b3e33fd5783c06f32f7261bddf746b40d81"
             },
             "require": {
                 "asm89/stack-cors": "v2.3.0",
@@ -8325,10 +8325,10 @@
                 "drupal/config_update": "2.0.0-alpha4",
                 "drupal/consumer_image_styles": "4.0.10",
                 "drupal/consumers": "1.24.0",
-                "drupal/core": "11.3.13",
-                "drupal/core-composer-scaffold": "11.3.13",
-                "drupal/core-project-message": "11.3.13",
-                "drupal/core-recommended": "11.3.13",
+                "drupal/core": "11.3.14",
+                "drupal/core-composer-scaffold": "11.3.14",
+                "drupal/core-project-message": "11.3.14",
+                "drupal/core-recommended": "11.3.14",
                 "drupal/crop": "2.6.0",
                 "drupal/ctools": "4.1.0",
                 "drupal/devel": "5.5.0",
