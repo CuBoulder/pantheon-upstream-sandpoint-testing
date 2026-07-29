@@ -100,6 +100,7 @@
         "drupal/scheduler": "2.3.0",
         "drupal/simple_sitemap": "4.2.3",
         "drupal/smtp": "1.4.0",
+        "drupal/stable9": "1.0.1",
         "drupal/trash": "3.0.30",
         "drupal/twig_tweak": "3.4.2",
         "drupal/unpublished_404": "2.0.3",
