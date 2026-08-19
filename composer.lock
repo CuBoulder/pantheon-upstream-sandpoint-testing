@@ -838,16 +838,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20260812",
+            "version": "20260819",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "14f11ab5bc6bb5dfdd39b4497455099d1c037654"
+                "reference": "c790e355d84536281ce12a23faf6d2741abd32a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/14f11ab5bc6bb5dfdd39b4497455099d1c037654",
-                "reference": "14f11ab5bc6bb5dfdd39b4497455099d1c037654",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/c790e355d84536281ce12a23faf6d2741abd32a0",
+                "reference": "c790e355d84536281ce12a23faf6d2741abd32a0",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -858,9 +858,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260812"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260819"
             },
-            "time": "2026-08-12T20:17:35+00:00"
+            "time": "2026-08-19T20:04:40+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -5238,7 +5238,7 @@
             "extra": {
                 "drupal": {
                     "version": "8.x-1.23",
-                    "datestamp": "1785907921",
+                    "datestamp": "1786629882",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6400,12 +6400,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/drush-ops/drush.git",
-                "reference": "a83d7e0cdf9a23b592821e00194e453929a41bad"
+                "reference": "92fa219135a89a8aab5a30309af0655b880d737f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drush-ops/drush/zipball/a83d7e0cdf9a23b592821e00194e453929a41bad",
-                "reference": "a83d7e0cdf9a23b592821e00194e453929a41bad",
+                "url": "https://api.github.com/repos/drush-ops/drush/zipball/92fa219135a89a8aab5a30309af0655b880d737f",
+                "reference": "92fa219135a89a8aab5a30309af0655b880d737f",
                 "shasum": ""
             },
             "require": {
@@ -6542,7 +6542,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-07-25T19:33:32+00:00"
+            "time": "2026-08-17T17:45:39+00:00"
         },
         {
             "name": "e0ipso/shaper",
@@ -7487,16 +7487,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.22",
+            "version": "v0.3.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "02b89b39e8972a998db4d5d4ad4719239dd4aee4"
+                "reference": "b7b4c35e5bc47450f6b6238c6cc9c47ba19b2221"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/02b89b39e8972a998db4d5d4ad4719239dd4aee4",
-                "reference": "02b89b39e8972a998db4d5d4ad4719239dd4aee4",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/b7b4c35e5bc47450f6b6238c6cc9c47ba19b2221",
+                "reference": "b7b4c35e5bc47450f6b6238c6cc9c47ba19b2221",
                 "shasum": ""
             },
             "require": {
@@ -7540,9 +7540,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.22"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.23"
             },
-            "time": "2026-08-04T14:50:50+00:00"
+            "time": "2026-08-11T18:58:24+00:00"
         },
         {
             "name": "league/container",
@@ -8338,7 +8338,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "dd9ae4c853a30a3f9128dc4e312d7e4c46907d6a"
+                "reference": "52cc826f6c6eed320fa4507491a76b7d1ea5ab2a"
             },
             "require": {
                 "asm89/stack-cors": "v2.4.0",
@@ -8347,7 +8347,7 @@
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
                 "cu-boulder/boulder_base": "20260729",
-                "cu-boulder/boulder_profile": "20260812",
+                "cu-boulder/boulder_profile": "20260819",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
                 "cu-boulder/express_admin": "dev-main",
@@ -8470,7 +8470,7 @@
                 "onelogin/php-saml": "4.3.2",
                 "pantheon-systems/drupal-integrations": "11.2.0",
                 "pantheon-systems/pantheon_domain_masking": "2.1.1",
-                "pear/archive_tar": "1.6.0",
+                "pear/archive_tar": "1.6.1",
                 "pear/console_getopt": "v1.4.3",
                 "pear/pear-core-minimal": "v1.10.18",
                 "pear/pear_exception": "v1.0.2",
@@ -8534,21 +8534,21 @@
         },
         {
             "name": "pear/archive_tar",
-            "version": "1.6.0",
+            "version": "1.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pear/Archive_Tar.git",
-                "reference": "dc3285537f1832da8ddbbe45f5a007248b6cc00e"
+                "reference": "a0d2c458a2ff6ee8943ac4271b7f57d613529ae0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/dc3285537f1832da8ddbbe45f5a007248b6cc00e",
-                "reference": "dc3285537f1832da8ddbbe45f5a007248b6cc00e",
+                "url": "https://api.github.com/repos/pear/Archive_Tar/zipball/a0d2c458a2ff6ee8943ac4271b7f57d613529ae0",
+                "reference": "a0d2c458a2ff6ee8943ac4271b7f57d613529ae0",
                 "shasum": ""
             },
             "require": {
                 "pear/pear-core-minimal": "^1.10.0alpha2",
-                "php": ">=5.4.0"
+                "php": ">=5.6.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "*"
@@ -8561,7 +8561,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.4.x-dev"
+                    "dev-master": "1.6.x-dev"
                 }
             },
             "autoload": {
@@ -8600,7 +8600,7 @@
                 "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Archive_Tar",
                 "source": "https://github.com/pear/Archive_Tar"
             },
-            "time": "2025-07-19T14:49:16+00:00"
+            "time": "2026-08-19T17:37:49+00:00"
         },
         {
             "name": "pear/console_getopt",
