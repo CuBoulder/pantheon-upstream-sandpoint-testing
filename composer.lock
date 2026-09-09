@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7dadb2bc6c5dd1bf9c9ff74076abf61c",
+    "content-hash": "d34d3b4e467cf47453e5febc0e24cbaa",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4156,6 +4156,50 @@
             "homepage": "https://www.drupal.org/project/google_tag",
             "support": {
                 "source": "https://git.drupalcode.org/project/google_tag"
+            }
+        },
+        {
+            "name": "drupal/gtranslate",
+            "version": "3.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/gtranslate.git",
+                "reference": "3.0.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/gtranslate-3.0.5.zip",
+                "reference": "3.0.5",
+                "shasum": "855d7006c63d1fc4f2a1365ab0e393f60e8dd854"
+            },
+            "require": {
+                "drupal/core": "^9.3 || ^10 || ^11"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "3.0.5",
+                    "datestamp": "1778692439",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "edo888",
+                    "homepage": "https://www.drupal.org/user/291183"
+                }
+            ],
+            "description": "Uses Google power to translate your website.",
+            "homepage": "https://www.drupal.org/project/gtranslate",
+            "support": {
+                "source": "https://git.drupalcode.org/project/gtranslate"
             }
         },
         {
@@ -8347,7 +8391,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "b2410c5f84ddeef7aeec201878dbdfbfa51eee08"
+                "reference": "279dc4c904e61081a5a343c40c5a9b697da86840"
             },
             "require": {
                 "asm89/stack-cors": "v2.4.0",
@@ -8414,6 +8458,7 @@
                 "drupal/focal_point": "2.1.2",
                 "drupal/google_cse": "5.0.5",
                 "drupal/google_tag": "2.0.9",
+                "drupal/gtranslate": "3.0.5",
                 "drupal/jsonapi_extras": "3.28.0",
                 "drupal/klaro": "3.1.1",
                 "drupal/klaro_js": "3.1.0",

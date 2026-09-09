@@ -73,6 +73,7 @@
         "drupal/focal_point": "2.1.2",
         "drupal/google_cse": "5.0.5",
         "drupal/google_tag": "2.0.9",
+        "drupal/gtranslate": "3.0.5",
         "drupal/jsonapi_extras": "3.28.0",
         "drupal/klaro": "3.1.1",
         "drupal/layout_builder_iframe_modal": "1.3.8",

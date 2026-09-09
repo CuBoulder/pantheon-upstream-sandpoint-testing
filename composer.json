@@ -50,6 +50,13 @@
                     "depth": 3
                 }
             ],
+            "drupal/gtranslate": [
+                {
+                    "description": "Fix undefined variable when saving settings",
+                    "url": "patches/gtranslate-3590106-languages_weights_typo.patch",
+                    "depth": 1
+                }
+            ],
             "pantheon-systems/upstream-management": [
                 {
                     "description": "Fixes Fatal error: UpstreamRequireCommand::configure()",
