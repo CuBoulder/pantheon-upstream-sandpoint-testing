@@ -812,16 +812,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20260909",
+            "version": "20261007",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "89ce8d0c45dc892b4732d65c049474e61d437ea4"
+                "reference": "be37f8372f3c48c1873e4a5b8e02d14306716501"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/89ce8d0c45dc892b4732d65c049474e61d437ea4",
-                "reference": "89ce8d0c45dc892b4732d65c049474e61d437ea4",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/be37f8372f3c48c1873e4a5b8e02d14306716501",
+                "reference": "be37f8372f3c48c1873e4a5b8e02d14306716501",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -832,22 +832,22 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20260909"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20261007"
             },
-            "time": "2026-09-09T19:17:26+00:00"
+            "time": "2026-10-07T19:35:58+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20260909",
+            "version": "20261007",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "508585140b9140eb506eb350588b93f8cb90d604"
+                "reference": "88c8439aa12796785f926b8646019e941059f9e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/508585140b9140eb506eb350588b93f8cb90d604",
-                "reference": "508585140b9140eb506eb350588b93f8cb90d604",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/88c8439aa12796785f926b8646019e941059f9e4",
+                "reference": "88c8439aa12796785f926b8646019e941059f9e4",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -858,9 +858,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20260909"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20261007"
             },
-            "time": "2026-09-09T19:20:51+00:00"
+            "time": "2026-10-07T19:35:08+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -1140,16 +1140,16 @@
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
-            "version": "20260729",
+            "version": "20261007",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "169d25253703c89fead0479a88059515ccf8b74e"
+                "reference": "8c4130754b27a8531e3d1f1a1ed1a161c47dc317"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/169d25253703c89fead0479a88059515ccf8b74e",
-                "reference": "169d25253703c89fead0479a88059515ccf8b74e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/8c4130754b27a8531e3d1f1a1ed1a161c47dc317",
+                "reference": "8c4130754b27a8531e3d1f1a1ed1a161c47dc317",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1160,9 +1160,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20260729"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20261007"
             },
-            "time": "2026-07-29T19:35:59+00:00"
+            "time": "2026-10-07T19:35:43+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1303,12 +1303,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "c5e45a16fd61e6c5d52066ce1827c7ab8a549c48"
+                "reference": "b164d17c297fa618473d7ad98758abad58268d4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/c5e45a16fd61e6c5d52066ce1827c7ab8a549c48",
-                "reference": "c5e45a16fd61e6c5d52066ce1827c7ab8a549c48",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/b164d17c297fa618473d7ad98758abad58268d4e",
+                "reference": "b164d17c297fa618473d7ad98758abad58268d4e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1322,7 +1322,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2026-04-29T18:49:16+00:00"
+            "time": "2026-10-07T19:20:02+00:00"
         },
         {
             "name": "cu-boulder/ucb_styled_block",
@@ -1916,16 +1916,16 @@
         },
         {
             "name": "doctrine/lexer",
-            "version": "3.0.2",
+            "version": "3.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/lexer.git",
-                "reference": "e96fe45e92a54233726014a7cc7340abf29bb14c"
+                "reference": "71d305eaa6480d3d3460c7d053d1da7749fa9cca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/lexer/zipball/e96fe45e92a54233726014a7cc7340abf29bb14c",
-                "reference": "e96fe45e92a54233726014a7cc7340abf29bb14c",
+                "url": "https://api.github.com/repos/doctrine/lexer/zipball/71d305eaa6480d3d3460c7d053d1da7749fa9cca",
+                "reference": "71d305eaa6480d3d3460c7d053d1da7749fa9cca",
                 "shasum": ""
             },
             "require": {
@@ -1971,7 +1971,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/lexer/issues",
-                "source": "https://github.com/doctrine/lexer/tree/3.0.2"
+                "source": "https://github.com/doctrine/lexer/tree/3.0.3"
             },
             "funding": [
                 {
@@ -1987,7 +1987,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-06-14T20:44:06+00:00"
+            "time": "2026-10-01T06:59:29+00:00"
         },
         {
             "name": "doctrine/persistence",
@@ -3700,17 +3700,17 @@
         },
         {
             "name": "drupal/externalauth",
-            "version": "2.0.14",
+            "version": "2.0.15",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/externalauth.git",
-                "reference": "2.0.14"
+                "reference": "2.0.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/externalauth-2.0.14.zip",
-                "reference": "2.0.14",
-                "shasum": "b607fef852778a6bb0e81c5e15e817ef756ddb77"
+                "url": "https://ftp.drupal.org/files/projects/externalauth-2.0.15.zip",
+                "reference": "2.0.15",
+                "shasum": "20fe35b605b4c137505d6f3c882690e53f31cd5d"
             },
             "require": {
                 "drupal/core": "^10.1 || ^11"
@@ -3718,8 +3718,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.14",
-                    "datestamp": "1790796109",
+                    "version": "2.0.15",
+                    "datestamp": "1790861291",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4270,27 +4270,28 @@
         },
         {
             "name": "drupal/klaro",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/klaro.git",
-                "reference": "3.1.1"
+                "reference": "3.1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/klaro-3.1.1.zip",
-                "reference": "3.1.1",
-                "shasum": "d6bb6fed0d7e6f2e5bb47eb9e7043613ec182041"
+                "url": "https://ftp.drupal.org/files/projects/klaro-3.1.2.zip",
+                "reference": "3.1.2",
+                "shasum": "a7c65a7c9ffb4ccc232d5e1180b7eab0ab1d6db8"
             },
             "require": {
                 "drupal/core": "^10.2 || ^11",
-                "drupal/klaro_js": "~3.1.0"
+                "drupal/klaro_js": "~3.1.0",
+                "masterminds/html5": "^2.8"
             },
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.1.1",
-                    "datestamp": "1782906912",
+                    "version": "3.1.2",
+                    "datestamp": "1791367970",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7410,16 +7411,16 @@
         },
         {
             "name": "laminas/laminas-feed",
-            "version": "2.26.2",
+            "version": "2.26.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-feed.git",
-                "reference": "ff46114defd883d6f783acd39effc0dcd2a08055"
+                "reference": "86ce3b1ea7c5010413cb24c8d58530b084e8f901"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-feed/zipball/ff46114defd883d6f783acd39effc0dcd2a08055",
-                "reference": "ff46114defd883d6f783acd39effc0dcd2a08055",
+                "url": "https://api.github.com/repos/laminas/laminas-feed/zipball/86ce3b1ea7c5010413cb24c8d58530b084e8f901",
+                "reference": "86ce3b1ea7c5010413cb24c8d58530b084e8f901",
                 "shasum": ""
             },
             "require": {
@@ -7487,7 +7488,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2026-09-14T21:00:46+00:00"
+            "time": "2026-10-03T12:45:16+00:00"
         },
         {
             "name": "laminas/laminas-stdlib",
@@ -7550,16 +7551,16 @@
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.24",
+            "version": "v0.3.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "5d3cdef29e93ca3b62b1871359db3078cd99908b"
+                "reference": "21b7b49d60fcb700016dd27b582ae739c75de816"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/5d3cdef29e93ca3b62b1871359db3078cd99908b",
-                "reference": "5d3cdef29e93ca3b62b1871359db3078cd99908b",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/21b7b49d60fcb700016dd27b582ae739c75de816",
+                "reference": "21b7b49d60fcb700016dd27b582ae739c75de816",
                 "shasum": ""
             },
             "require": {
@@ -7602,10 +7603,9 @@
             ],
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
-                "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.24"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.25"
             },
-            "time": "2026-08-20T12:55:36+00:00"
+            "time": "2026-10-06T02:25:49+00:00"
         },
         {
             "name": "league/container",
@@ -8401,7 +8401,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "8c5fd4092d8cf4c2bb06886b91d63effea329348"
+                "reference": "5f0066c77dec92136db9f7dafffdb0930a0d67a8"
             },
             "require": {
                 "asm89/stack-cors": "v2.4.0",
@@ -8409,8 +8409,8 @@
                 "caxy/php-htmldiff": "v0.1.17",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
-                "cu-boulder/boulder_base": "20260909",
-                "cu-boulder/boulder_profile": "20260909",
+                "cu-boulder/boulder_base": "20261007",
+                "cu-boulder/boulder_profile": "20261007",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
                 "cu-boulder/express_admin": "dev-main",
@@ -8421,7 +8421,7 @@
                 "cu-boulder/ucb_campus_map": "dev-main",
                 "cu-boulder/ucb_campus_news": "dev-main",
                 "cu-boulder/ucb_ckeditor_plugins": "dev-main",
-                "cu-boulder/ucb_custom_entities": "20260729",
+                "cu-boulder/ucb_custom_entities": "20261007",
                 "cu-boulder/ucb_default_content": "dev-main",
                 "cu-boulder/ucb_drush_commands": "v1.2.1",
                 "cu-boulder/ucb_focal_image_enable": "dev-main",
@@ -8437,7 +8437,7 @@
                 "doctrine/common": "3.5.0",
                 "doctrine/deprecations": "1.1.6",
                 "doctrine/event-manager": "2.1.1",
-                "doctrine/lexer": "3.0.2",
+                "doctrine/lexer": "3.0.3",
                 "doctrine/persistence": "4.2.0",
                 "drupal/admin_toolbar": "3.6.3",
                 "drupal/administerusersbyrole": "3.6.0",
@@ -8462,7 +8462,7 @@
                 "drupal/entity_embed": "1.7.0",
                 "drupal/entity_reference_revisions": "1.14.0",
                 "drupal/entity_usage": "2.3.0",
-                "drupal/externalauth": "2.0.14",
+                "drupal/externalauth": "2.0.15",
                 "drupal/features": "3.17.0",
                 "drupal/field_group": "4.0.0",
                 "drupal/focal_point": "2.1.3",
@@ -8470,7 +8470,7 @@
                 "drupal/google_tag": "2.0.9",
                 "drupal/gtranslate": "3.0.6",
                 "drupal/jsonapi_extras": "3.28.0",
-                "drupal/klaro": "3.1.1",
+                "drupal/klaro": "3.1.2",
                 "drupal/klaro_js": "3.1.0",
                 "drupal/layout_builder_iframe_modal": "1.3.8",
                 "drupal/linkit": "7.0.17",
@@ -8513,7 +8513,7 @@
                 "guzzlehttp/psr7": "2.13.1",
                 "justinrainbow/json-schema": "6.8.2",
                 "laminas/laminas-escaper": "2.18.0",
-                "laminas/laminas-feed": "2.26.2",
+                "laminas/laminas-feed": "2.26.3",
                 "laminas/laminas-stdlib": "3.21.0",
                 "marc-mabe/php-enum": "v4.7.2",
                 "masterminds/html5": "2.10.1",
