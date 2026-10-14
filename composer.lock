@@ -812,16 +812,16 @@
         },
         {
             "name": "cu-boulder/boulder_base",
-            "version": "20261007",
+            "version": "20261014",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "be37f8372f3c48c1873e4a5b8e02d14306716501"
+                "reference": "138773499baa65b06f0846d2c2de7940e793ca46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/be37f8372f3c48c1873e4a5b8e02d14306716501",
-                "reference": "be37f8372f3c48c1873e4a5b8e02d14306716501",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/138773499baa65b06f0846d2c2de7940e793ca46",
+                "reference": "138773499baa65b06f0846d2c2de7940e793ca46",
                 "shasum": ""
             },
             "type": "drupal-custom-theme",
@@ -832,22 +832,22 @@
             "description": "University of Colorado Boulder base theme",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
-                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20261007"
+                "source": "https://github.com/CuBoulder/tiamat-theme/tree/20261014"
             },
-            "time": "2026-10-07T19:35:58+00:00"
+            "time": "2026-10-14T17:23:11+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20261007",
+            "version": "20261014",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "88c8439aa12796785f926b8646019e941059f9e4"
+                "reference": "c52c006e7d0a462b61d548274d831c5721942373"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/88c8439aa12796785f926b8646019e941059f9e4",
-                "reference": "88c8439aa12796785f926b8646019e941059f9e4",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/c52c006e7d0a462b61d548274d831c5721942373",
+                "reference": "c52c006e7d0a462b61d548274d831c5721942373",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -858,9 +858,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20261007"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20261014"
             },
-            "time": "2026-10-07T19:35:08+00:00"
+            "time": "2026-10-14T17:22:07+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -1140,16 +1140,16 @@
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
-            "version": "20261007",
+            "version": "20261014",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "8c4130754b27a8531e3d1f1a1ed1a161c47dc317"
+                "reference": "fbf84b8562fe0975db3c6f617bdd855078db63e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/8c4130754b27a8531e3d1f1a1ed1a161c47dc317",
-                "reference": "8c4130754b27a8531e3d1f1a1ed1a161c47dc317",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/fbf84b8562fe0975db3c6f617bdd855078db63e9",
+                "reference": "fbf84b8562fe0975db3c6f617bdd855078db63e9",
                 "shasum": ""
             },
             "type": "drupal-custom-module",
@@ -1160,9 +1160,9 @@
             "description": "University of Colorado Boulder custom entities",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
-                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20261007"
+                "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/20261014"
             },
-            "time": "2026-10-07T19:35:43+00:00"
+            "time": "2026-10-14T17:21:49+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -8408,7 +8408,7 @@
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "ed87c6e3715256079cd57acfcb66f391d92b8dfb"
+                "reference": "6a4217fda6f135e55541afaad11cde20e730153b"
             },
             "require": {
                 "asm89/stack-cors": "v2.4.0",
@@ -8416,8 +8416,8 @@
                 "caxy/php-htmldiff": "v0.1.17",
                 "composer/installers": "v2.3.0",
                 "composer/semver": "3.4.4",
-                "cu-boulder/boulder_base": "20261007",
-                "cu-boulder/boulder_profile": "20261007",
+                "cu-boulder/boulder_base": "20261014",
+                "cu-boulder/boulder_profile": "20261014",
                 "cu-boulder/ckeditor5_bootstrap_accordion": "dev-main",
                 "cu-boulder/ckeditor5_icons": "dev-main",
                 "cu-boulder/express_admin": "dev-main",
@@ -8428,7 +8428,7 @@
                 "cu-boulder/ucb_campus_map": "dev-main",
                 "cu-boulder/ucb_campus_news": "dev-main",
                 "cu-boulder/ucb_ckeditor_plugins": "dev-main",
-                "cu-boulder/ucb_custom_entities": "20261007",
+                "cu-boulder/ucb_custom_entities": "20261014",
                 "cu-boulder/ucb_default_content": "dev-main",
                 "cu-boulder/ucb_drush_commands": "v1.2.1",
                 "cu-boulder/ucb_focal_image_enable": "dev-main",
