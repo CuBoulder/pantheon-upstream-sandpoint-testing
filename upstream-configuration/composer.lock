@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ad3cfb077d11757c1797b0c132bd688f",
+    "content-hash": "2fe61de97633b2b2103e3846fa944506",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -389,16 +389,16 @@
         },
         {
             "name": "cu-boulder/boulder_profile",
-            "version": "20261022",
+            "version": "20261026",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "be8f348b0506eb307a9c640cecdf695a33a62e82"
+                "reference": "a4d922e12d1533c5c4b2226c2dad67530f733b93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/be8f348b0506eb307a9c640cecdf695a33a62e82",
-                "reference": "be8f348b0506eb307a9c640cecdf695a33a62e82",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/a4d922e12d1533c5c4b2226c2dad67530f733b93",
+                "reference": "a4d922e12d1533c5c4b2226c2dad67530f733b93",
                 "shasum": ""
             },
             "type": "drupal-custom-profile",
@@ -409,9 +409,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20261022"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20261026"
             },
-            "time": "2026-10-22T17:44:10+00:00"
+            "time": "2026-10-26T19:56:59+00:00"
         },
         {
             "name": "cu-boulder/ckeditor5_bootstrap_accordion",
@@ -560,12 +560,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_article_syndication.git",
-                "reference": "f5355c351cbd535e86aa74cdb698604969bdc838"
+                "reference": "b6e763c5bea1ef2abff3c1fd6192ae47deb0916b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_article_syndication/zipball/f5355c351cbd535e86aa74cdb698604969bdc838",
-                "reference": "f5355c351cbd535e86aa74cdb698604969bdc838",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_article_syndication/zipball/b6e763c5bea1ef2abff3c1fd6192ae47deb0916b",
+                "reference": "b6e763c5bea1ef2abff3c1fd6192ae47deb0916b",
                 "shasum": ""
             },
             "default-branch": true,
@@ -579,7 +579,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_article_syndication/issues",
                 "source": "https://github.com/CuBoulder/ucb_article_syndication/tree/main"
             },
-            "time": "2024-12-10T23:12:46+00:00"
+            "time": "2026-10-26T19:00:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_bootstrap_layouts",
@@ -641,12 +641,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_campus_news.git",
-                "reference": "6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e"
+                "reference": "46fbd272306cc3b3be6fee15d82944d84f8a6307"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e",
-                "reference": "6e04f6c105775b2a22c1f2c1ecfb2f9ee786788e",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_campus_news/zipball/46fbd272306cc3b3be6fee15d82944d84f8a6307",
+                "reference": "46fbd272306cc3b3be6fee15d82944d84f8a6307",
                 "shasum": ""
             },
             "default-branch": true,
@@ -660,7 +660,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_campus_news/issues",
                 "source": "https://github.com/CuBoulder/ucb_campus_news/tree/main"
             },
-            "time": "2024-11-22T17:10:53+00:00"
+            "time": "2026-10-26T18:50:25+00:00"
         },
         {
             "name": "cu-boulder/ucb_ckeditor_plugins",
@@ -4300,17 +4300,17 @@
         },
         {
             "name": "drupal/metatag",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/metatag.git",
-                "reference": "2.2.0"
+                "reference": "2.2.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/metatag-2.2.0.zip",
-                "reference": "2.2.0",
-                "shasum": "b6ae4b665a49771d5139644c71cb3d5a68cb4828"
+                "url": "https://ftp.drupal.org/files/projects/metatag-2.2.1.zip",
+                "reference": "2.2.1",
+                "shasum": "ee75572be28017b7b5a9c4ecf7b643e6ce806e16"
             },
             "require": {
                 "drupal/core": "^10.3 || ^11",
@@ -4318,7 +4318,9 @@
                 "php": ">=8.0"
             },
             "require-dev": {
-                "drupal/forum": "1.x-dev",
+                "drupal/diff": "*",
+                "drupal/forum": "^1.0",
+                "drupal/graphql": "^3",
                 "drupal/hal": "^1 || ^2 || ^9",
                 "drupal/metatag_dc": "*",
                 "drupal/metatag_open_graph": "*",
@@ -4330,8 +4332,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.2.0",
-                    "datestamp": "1758622371",
+                    "version": "2.2.1",
+                    "datestamp": "1792864792",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5457,17 +5459,17 @@
         },
         {
             "name": "drupal/trash",
-            "version": "3.1.1",
+            "version": "3.1.2",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/trash.git",
-                "reference": "3.1.1"
+                "reference": "3.1.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/trash-3.1.1.zip",
-                "reference": "3.1.1",
-                "shasum": "d7b28419ca204732df10d2a166fdfcb0f17faa1a"
+                "url": "https://ftp.drupal.org/files/projects/trash-3.1.2.zip",
+                "reference": "3.1.2",
+                "shasum": "c25cf14a3b041bc7ed987c6069d5e06623081675"
             },
             "require": {
                 "drupal/core": "^11.3.3 | ^12"
@@ -5489,8 +5491,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "3.1.1",
-                    "datestamp": "1791893108",
+                    "version": "3.1.2",
+                    "datestamp": "1792828492",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6045,16 +6047,16 @@
         },
         {
             "name": "guzzlehttp/guzzle",
-            "version": "7.16.0",
+            "version": "7.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "ffb62ec787050ae4fa9449cdd6b80335db69bda2"
+                "reference": "81755d989b3007ca7f88a069857553cd08e7dc2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/ffb62ec787050ae4fa9449cdd6b80335db69bda2",
-                "reference": "ffb62ec787050ae4fa9449cdd6b80335db69bda2",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/81755d989b3007ca7f88a069857553cd08e7dc2e",
+                "reference": "81755d989b3007ca7f88a069857553cd08e7dc2e",
                 "shasum": ""
             },
             "require": {
@@ -6153,7 +6155,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/guzzle/issues",
-                "source": "https://github.com/guzzle/guzzle/tree/7.16.0"
+                "source": "https://github.com/guzzle/guzzle/tree/7.16.1"
             },
             "funding": [
                 {
@@ -6169,7 +6171,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-10-18T13:38:36+00:00"
+            "time": "2026-10-25T21:35:21+00:00"
         },
         {
             "name": "guzzlehttp/promises",
